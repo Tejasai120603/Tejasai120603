@@ -46,7 +46,6 @@ Get a quick overview of my GitHub activity and contributions:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Tejasai120603&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25" alt="Teja Sai Yallamelli's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasai120603&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com/?user=Tejasai120603&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 🌐 Let's Connect!
