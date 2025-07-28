@@ -50,7 +50,7 @@ Key Technologies: Arduino, RFID reader, RFID tags, LCD display
 🌐 Let's Connect!
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-  (IMPORTANT: Replace [https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/teja-sai-yallamelli-a5685b320/) with your actual LinkedIn profile URL)
+(https://www.linkedin.com/in/teja-sai-yallamelli-a5685b320/) 
 
 
 <div align="center">
