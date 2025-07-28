@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I'm Teja Sai Yallamelli 👋
+"Highly motivated and skilled Front-End Developer with a strong foundation in web technologies and a passion for creating visually appealing, responsive, and user-friendly applications. Proficient in modern front-end frameworks, UI/UX principles, and performance optimization. Strong problem-solving abilities and a keen attention to detail, with experience collaborating in team environments to deliver high-quality web solutions."
+
+🎓 Education:
+Bachelor of Technology in Electronics and Computer Engineering (EAC)
+
+Amrita Vishwa Vidyapeetham, Bengaluru (2022 - present)
 
 <!--
 **Tejasai120603/Tejasai120603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 Connect with me:
+Email: tejasairavikumar@gmail.com
