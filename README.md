@@ -28,6 +28,4 @@
 
 [![Tejasai120603's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejasai120603&show_icons=true&locale=en)](https://github.com/Tejasai120603)
 
----
 
-[![Tejasai120603's Contribution Streak](https://your-vercel-app-name.vercel.app/api?user=Tejasai120603&theme=dark)](https://github.com/Tejasai120603)
