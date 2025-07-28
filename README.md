@@ -30,4 +30,4 @@
 
 ---
 
-[![Tejasai120603's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejasai120603&theme=dark)](https://github.com/Tejasai120603)
+[![Tejasai120603's Contribution Streak](https://your-vercel-app-name.vercel.app/api?user=Tejasai120603&theme=dark)](https://github.com/Tejasai120603)
