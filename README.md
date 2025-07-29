@@ -30,6 +30,6 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasai120603&" alt="tejasai120603" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasai120603&" alt="Tejasai120603" /></p>
 
 
