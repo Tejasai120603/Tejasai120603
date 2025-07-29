@@ -28,8 +28,6 @@
 
 [![Tejasai120603's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejasai120603&show_icons=true&locale=en)](https://github.com/Tejasai120603)
 
----
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasai120603&" alt="Tejasai120603" /></p>
 
 
