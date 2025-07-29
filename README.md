@@ -28,6 +28,13 @@
 
 [![Tejasai120603's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejasai120603&show_icons=true&locale=en)](https://github.com/Tejasai120603)
 
+---
+
+## 🔥 My GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tejasai120603&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
 
 
 
