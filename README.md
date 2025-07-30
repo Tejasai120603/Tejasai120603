@@ -26,7 +26,7 @@
 
 ---
 
-[![Tejasai120603's GitHub Stats](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical=Tejasai120603&show_icons=true&locale=en)](https://github.com/Tejasai120603)
+[![Tejasai120603's GitHub Stats](https://github-profile-trophy.vercel.app/?username=ryo-maTejasai120603&show_icons=true&locale=en)](https://github.com/Tejasai120603)
 
 ---
 
