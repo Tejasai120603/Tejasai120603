@@ -6,7 +6,7 @@
 
 💻 I'm passionate about building **high-performance, maintainable, and production-ready software** that solves real-world problems.
 
-📚 IEEE Published Author (2x) | AWS Academy Graduate | Honeywell Software Engineering Intern
+📚 IEEE Published Author (2x) | AWS Academy Graduate
 
 🌐 **Portfolio:**  
 👉 https://tejasai120603.github.io/Portfolio/
