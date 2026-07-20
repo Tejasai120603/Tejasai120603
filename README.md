@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there I'm Teja Sai Yallamelli 👋
 
 🔭 I'm currently building **scalable backend systems, distributed applications, and AI-powered software solutions.**
 
