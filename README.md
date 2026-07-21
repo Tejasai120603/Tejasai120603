@@ -1,4 +1,4 @@
-# Hi there I'm Teja Sai Yallamelli 👋
+# Hi there, I'm Teja Sai Yallamelli 👋
 
 🔭 I'm currently building **scalable backend systems, distributed applications, and AI-powered software solutions.**
 
@@ -52,9 +52,11 @@
 
 📖 **SafeRoute: Multi-Modal Optimization for Crisis Management and Evacuation**
 - IEEE ICSSES 2025
+- (https://ieeexplore.ieee.org/document/11009902)
 
 📖 **Embedded VPN Router Using Raspberry Pi**
 - IEEE ETCOM 2026
+- (https://ieeexplore.ieee.org/document/11437166)
 
 ---
 
