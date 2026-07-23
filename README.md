@@ -52,35 +52,35 @@
 
 📖 **SafeRoute: Multi-Modal Optimization for Crisis Management and Evacuation**
 - IEEE ICSSES 2025
-- (https://ieeexplore.ieee.org/document/11009902)
+- https://ieeexplore.ieee.org/document/11009902
 
 📖 **Embedded VPN Router Using Raspberry Pi**
 - IEEE ETCOM 2026
-- (https://ieeexplore.ieee.org/document/11437166)
+- https://ieeexplore.ieee.org/document/11437166
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejasai120603&show_icons=true&count_private=true&hide=prs&theme=radical)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejasai120603&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasai120603&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-### 💬 Most Used Languages
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tejasai120603&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasai120603&layout=compact&langs_count=8&theme=radical)
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejasai120603&theme=radical)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tejasai120603)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tejasai120603&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+</p>
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 - 🌐 Portfolio: **https://tejasai120603.github.io/Portfolio/**
 - 💼 LinkedIn: **https://linkedin.com/in/teja-sai-yallamelli-a5685b320**
 - 📧 Email: **tejasairavikumar@gmail.com**
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
