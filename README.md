@@ -74,7 +74,7 @@
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tejasai120603&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tejasai120603&theme=radical&no-frame=true&no-bg=true&margin-w=10)
 
 ---
 
