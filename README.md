@@ -47,19 +47,23 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
-
 ## 📚 Publications
 
-📖 **SafeRoute: Multi-Modal Optimization for Crisis Management and Evacuation**
-- IEEE ICSSES 2025
-- https://ieeexplore.ieee.org/document/11009902
+### 📖 SafeRoute: Multi-Modal Optimization for Crisis Management and Evacuation
+**IEEE ICSSES 2025**
 
-📖 **Embedded VPN Router Using Raspberry Pi**
-- IEEE ETCOM 2026
-- https://ieeexplore.ieee.org/document/11437166
+A research paper presenting an intelligent disaster management framework that integrates **machine learning, geospatial analytics, and multi-modal route optimization** to enhance evacuation planning during flood and earthquake scenarios. The proposed system achieved significant improvements in prediction accuracy and optimized emergency response using real-time risk analysis. :contentReference[oaicite:0]{index=0}
+
+🔗 https://ieeexplore.ieee.org/document/11009902
 
 ---
+
+### 📖 Embedded VPN Router Using Raspberry Pi
+**IEEE ETCOM 2026**
+
+A research paper proposing a **cost-effective embedded VPN router** built using Raspberry Pi to provide secure remote connectivity. The system leverages VPN tunneling and network security techniques to enable encrypted communication while maintaining affordability, portability, and reliable performance for small-scale and enterprise networking environments. :contentReference[oaicite:1]{index=1}
+
+🔗 https://ieeexplore.ieee.org/document/11437166
 
 # 📊 GitHub Statistics
 
