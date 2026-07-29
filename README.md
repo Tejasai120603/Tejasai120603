@@ -12,7 +12,7 @@
 👉 https://tejasai120603.github.io/Portfolio/
 
 💼 **Featured Projects**
-- 🤖 AI Resume Analyzer & Job Matching System (BERT + MERN)
+- 🤖 CareerCraft - AI Resume Analyzer & Job Matching System (BERT + MERN)
 - 🔐 SecureChat – Secure Real-Time Chat with QR Authentication & ML Phishing Detection
 - 🌍 SafeRoute – Multi-Modal Disaster Management System (IEEE Published)
 - 🐞 Intelligent Software Defect Prediction using Explainable AI
