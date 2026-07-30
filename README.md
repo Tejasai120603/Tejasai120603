@@ -18,6 +18,7 @@
 - 🐞 Intelligent Software Defect Prediction using Explainable AI
 - 🔒 Layered Secure File Transfer using Multi-Level Encryption
 - 🌐 AI Cloud Code Compiler
+- 🤖 IPL Player Performance Prediction System
   
 
 ---
