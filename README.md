@@ -2,7 +2,7 @@
 
 🔭 I'm currently building **scalable backend systems, distributed applications, and AI-powered software solutions ,LLMs and RAG.**
 
-🌱 I'm learning **System Design, Cloud Infrastructure (AWS), Microservices, Kubernetes, and Production Machine Learning.**
+🌱 I'm learning **System Design, Docker, Cloud Infrastructure (AWS), Microservices, Kubernetes, and Production Machine Learning.**
 
 💻 I'm passionate about building **high-performance, maintainable, and production-ready software** that solves real-world problems.
 
