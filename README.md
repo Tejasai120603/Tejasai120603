@@ -1,6 +1,6 @@
 # Hi there, I'm Teja Sai Yallamelli 👋
 
-🔭 I'm currently building **scalable backend systems, distributed applications, and AI-powered software solutions ,LLMs and RAG.**
+🔭 I'm currently building **scalable backend systems, distributed applications, and AI-powered software solutions.**
 
 🌱 I'm learning **System Design, Docker, Cloud Infrastructure (AWS), Microservices, Kubernetes, and Production Machine Learning.**
 
