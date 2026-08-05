@@ -60,9 +60,6 @@ A research paper presenting an intelligent disaster management framework that in
 
 🔗 https://ieeexplore.ieee.org/document/11009902
 
---Abstract--
-Using real-time technology, the system enhances the identification of earthquake and flood-safe camps while improving accessibility by use of geospatial data. key features of this system include include multi-modal transportation integration; its optimized route A* algorithm, the system continuously updates via real-time data streams of real-time with a dynamic updating of routes along with enhance the efficiency of evacuation planning. Crowd-sourced information platforms enable real-time communication that connects affected areas and response teams. The approach develops data-driven elements toward community resilience and disaster preparedness by reducing response times and improving route efficiencies, Based on the results, this work on SafeRoute for flood and earthquake prediction shows +7.27% and +4.30% to +12.10% improvement over existing literature.
-
 ---
 
 ### 📖 Embedded VPN Router Using Raspberry Pi
