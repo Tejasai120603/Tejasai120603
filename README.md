@@ -1,6 +1,6 @@
 # Hi there, I'm Teja Sai Yallamelli 👋
 
-💻 I'm a final-year Electronics and Computer Engineering student 
+💻 I'm a final-year Electronics and Computer Engineering Student 
 
 🔭 I'm currently building **scalable backend systems, distributed applications, and AI-powered software solutions.**
 
