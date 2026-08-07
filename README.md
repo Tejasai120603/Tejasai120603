@@ -1,5 +1,7 @@
 # Hi there, I'm Teja Sai Yallamelli 👋
 
+💻 I'm a final-year Electronics and Computer Engineering student 
+
 🔭 I'm currently building **scalable backend systems, distributed applications, and AI-powered software solutions.**
 
 🌱 I'm learning **System Design, Docker, Cloud Infrastructure (AWS), Microservices, Kubernetes, and Production Machine Learning.**
